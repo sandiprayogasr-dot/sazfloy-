@@ -1,0 +1,6 @@
+{
+  "name": "SAZFLOY",
+  "description": "SAZFLOY — Professional Video & Photo Editor with timeline, filters, audio, text, transitions, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
